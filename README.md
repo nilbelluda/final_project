@@ -1,4 +1,4 @@
-# final_project
+# PROGRAMMING I - FINAL PROJECT
 ### Combining Python Fundamentals, Agent-Based Modeling, and Data Analytics
 ##### Nil Belluda Méndez: u213152
 ##### Tom Owen Prats: u213139
